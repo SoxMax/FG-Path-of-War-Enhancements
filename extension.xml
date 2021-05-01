@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3">
+	<properties>
+		<name>Path of War Enhancements</name>
+		<version>0.1.0</version>
+		<author>SoxMax</author>
+		<description>Adds changes to support Dreamscarred Press' Path of War</description>
+		<loadorder>142</loadorder>
+		<ruleset>
+			<name>PFRPG</name>
+		</ruleset>
+	</properties>
+	
+	<announcement text="https://github.com/SoxMax/Ranged-Attack-Distance-Modifiers \r Ranged Attack Distance Modifiers \r Modifies ranged attacks based on the target's location" font="emotefont" />
+	
+	<base>
+		<script name="PathOfWarDataCommon" file="scripts/pow_data_common.lua" />
+	</base>
+</root>

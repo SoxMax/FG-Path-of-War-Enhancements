@@ -11,7 +11,7 @@
 		</ruleset>
 	</properties>
 	
-	<announcement text="https://github.com/SoxMax/Ranged-Attack-Distance-Modifiers \r Ranged Attack Distance Modifiers \r Modifies ranged attacks based on the target's location" font="emotefont" />
+	<announcement text="https://github.com/SoxMax/FG-Path-of-War-Enhancements \r Path of War Enhancements \r Adds changes to support Dreamscarred Press' Path of War" font="emotefont" />
 	
 	<base>
 		<script name="PathOfWarDataCommon" file="scripts/pow_data_common.lua" />
